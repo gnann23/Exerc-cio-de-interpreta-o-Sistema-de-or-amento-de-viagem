@@ -1,5 +1,6 @@
 # Exerccio-de-interpreta-o-Sistema-de-or-amento-de-viagem
 
+
 A empresa Senac Tour trabalha com a organização de viagens nacionais e precisa melhorar a forma como apresenta seus orçamentos aos clientes.
 Atualmente, os atendentes realizam todos os cálculos manualmente. Eles anotam os dados do cliente, verificam a quantidade de viajantes, calculam os custos da passagem, da hospedagem, da alimentação, do transporte e dos passeios e, ao final, somam todos os valores.
 Esse processo tem causado alguns problemas. Em determinados atendimentos, valores são esquecidos, cálculos são feitos de forma incorreta e o cliente recebe um orçamento desorganizado. Para reduzir esses erros, a empresa decidiu criar um programa em PHP que será executado diretamente pelo terminal.
